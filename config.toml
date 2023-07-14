@@ -1,4 +1,4 @@
-baseURL = "https://github.com/cuidq/cuidq.github.io.git"
+baseURL = ""
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "zh-cn"
@@ -75,22 +75,22 @@ enableEmoji = true
         url = "/categories/documentation/"
         title = ""
         weight = 4
-      [[languages.en.menu.main]]
-        identifier = "about"
-        pre = ""
-        post = ""
-        name = "About"
-        url = "/about/"
-        title = ""
-        weight = 5
+#      [[languages.en.menu.main]]
+#        identifier = "about"
+#        pre = ""
+#        post = ""
+#        name = "About"
+#        url = "/about/"
+#        title = ""
+#        weight = 5
       [[languages.en.menu.main]]
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
-        url = "https://github.com/xxxxx"
+        url = "https://github.com/cuidq"
         title = "GitHub"
-        weight = 6
+        weight = 5
     [languages.en.params]
       # site description
       description = "About Me"
@@ -129,8 +129,8 @@ enableEmoji = true
         absoluteURL = false
         [languages.en.params.search.algolia]
           index = "index.en"
-          appID = "PASDMWALPK"
-          searchKey = "b42948e51daaa93df92381c8e2ac0f93"
+          appID = "OFEELKH7SS"
+          searchKey = "a4a512d878fccd6fac6fc80d221fdba2"
       # Home page config
       [languages.en.params.home]
         # amount of RSS pages
@@ -159,13 +159,13 @@ enableEmoji = true
           paginate = 6
       # Social config in home page
       [languages.en.params.social]
-        GitHub = "xxxx"
-        Weibo = "xxxx"
-        Zhihu = "xxx"
-        Douban = ""
+        GitHub = "cuidq"
+#        Weibo = "xxxx"
+#        Zhihu = "xxx"
+#        Douban = ""
         Googlescholar = ""
         Researchgate = ""
-        Bilibili = "xxx"
+#        Bilibili = "xxx"
         Email = "xxxx"
         RSS = false
 
@@ -219,22 +219,22 @@ enableEmoji = true
         url = "/categories/documentation/"
         title = ""
         weight = 4
-      [[languages.zh-cn.menu.main]]
-        identifier = "about"
-        pre = ""
-        post = ""
-        name = "关于"
-        url = "/about/"
-        title = ""
-        weight = 5
+#      [[languages.zh-cn.menu.main]]
+#        identifier = "about"
+#        pre = ""
+#        post = ""
+#        name = "关于"
+#        url = "/about/"
+#        title = ""
+#        weight = 5
       [[languages.zh-cn.menu.main]]
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
-        url = "https://github.com/xxx"
+        url = "https://github.com/cuidq"
         title = "GitHub"
-        weight = 6
+        weight = 5
     [languages.zh-cn.params]
       # 网站描述
       description = "关于"
@@ -273,8 +273,8 @@ enableEmoji = true
         absoluteURL = false
         [languages.zh-cn.params.search.algolia]
           index = "index.zh-cn"
-          appID = "PASDMWALPK"
-          searchKey = "b42948e51daaa93df92381c8e2ac0f93"
+          appID = "OFEELKH7SS"
+          searchKey = "a4a512d878fccd6fac6fc80d221fdba2"
       # 主页信息设置
       [languages.zh-cn.params.home]
         # RSS 文章数目
@@ -303,13 +303,13 @@ enableEmoji = true
           paginate = 6
       # 主页的社交信息设置
       [languages.zh-cn.params.social]
-        GitHub = "xxx"
-        Weibo = "xxx"
-        Zhihu = "xxxx"
-        Douban = ""
+        GitHub = "cuidq"
+#        Weibo = "xxx"
+#        Zhihu = "xxxx"
+#        Douban = ""
         Googlescholar = ""
         Researchgate = ""
-        Bilibili = "xxx"
+#        Bilibili = "xxx"
         Email = "xxx"
         RSS = false
 
@@ -373,7 +373,7 @@ enableEmoji = true
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
-        url = "https://github.com/xxx"
+        url = "https://github.com/cuidq"
         
         title = "GitHub"
         weight = 6
@@ -415,8 +415,8 @@ enableEmoji = true
         absoluteURL = false
         [languages.fr.params.search.algolia]
           index = "index.fr"
-          appID = "PASDMWALPK"
-          searchKey = "b42948e51daaa93df92381c8e2ac0f93"
+          appID = "OFEELKH7SS"
+          searchKey = "a4a512d878fccd6fac6fc80d221fdba2"
       # Home page config
       [languages.fr.params.home]
         # amount of RSS pages
@@ -445,13 +445,13 @@ enableEmoji = true
           paginate = 6
       # Social config in home page
       [languages.fr.params.social]
-       GitHub = "xxx"
-        Weibo = "xxx"
-        Zhihu = "xxx"
-        Douban = ""
+       GitHub = "cuidq"
+#        Weibo = "xxx"
+#        Zhihu = "xxx"
+#        Douban = ""
         Googlescholar = ""
         Researchgate = ""
-        Bilibili = "xxx"
+#        Bilibili = "xxx"
         Email = "xxxx"
         RSS = false
 [params]
