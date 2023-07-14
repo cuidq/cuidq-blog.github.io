@@ -2,49 +2,49 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://github.com/cuidq/cuidq.github.io.git/categories/</loc><lastmod>2023-07-14T09:10:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/categories/</loc><lastmod>2023-07-14T09:10:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://github.com/cuidq/cuidq.github.io.git/en/categories/"
+                        href="/en/categories/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://github.com/cuidq/cuidq.github.io.git/fr/categories/"
+                        href="/fr/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://github.com/cuidq/cuidq.github.io.git/categories/"
+                    href="/categories/"
                     /></url><url>
-            <loc>https://github.com/cuidq/cuidq.github.io.git/</loc><lastmod>2023-07-14T09:10:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/</loc><lastmod>2023-07-14T09:10:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://github.com/cuidq/cuidq.github.io.git/en/"
+                        href="/en/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://github.com/cuidq/cuidq.github.io.git/fr/"
+                        href="/fr/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://github.com/cuidq/cuidq.github.io.git/"
+                    href="/"
                     /></url><url>
-            <loc>https://github.com/cuidq/cuidq.github.io.git/tags/hugo/</loc><lastmod>2023-07-14T09:10:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://github.com/cuidq/cuidq.github.io.git/categories/hugo/</loc><lastmod>2023-07-14T09:10:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://github.com/cuidq/cuidq.github.io.git/hugo/</loc><lastmod>2023-07-14T09:10:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://github.com/cuidq/cuidq.github.io.git/posts/</loc><lastmod>2023-07-14T09:10:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://github.com/cuidq/cuidq.github.io.git/tags/</loc><lastmod>2023-07-14T09:10:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/tags/hugo/</loc><lastmod>2023-07-14T09:10:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/categories/hugo/</loc><lastmod>2023-07-14T09:10:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/hugo/</loc><lastmod>2023-07-14T09:10:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/posts/</loc><lastmod>2023-07-14T09:10:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/tags/</loc><lastmod>2023-07-14T09:10:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://github.com/cuidq/cuidq.github.io.git/en/tags/"
+                        href="/en/tags/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://github.com/cuidq/cuidq.github.io.git/fr/tags/"
+                        href="/fr/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://github.com/cuidq/cuidq.github.io.git/tags/"
+                    href="/tags/"
                     /></url><url>
-            <loc>https://github.com/cuidq/cuidq.github.io.git/tags/mysql/</loc><lastmod>2023-07-13T17:58:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://github.com/cuidq/cuidq.github.io.git/categories/mysql/</loc><lastmod>2023-07-13T17:58:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://github.com/cuidq/cuidq.github.io.git/mysql/</loc><lastmod>2023-07-13T17:58:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
+            <loc>/tags/mysql/</loc><lastmod>2023-07-13T17:58:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/categories/mysql/</loc><lastmod>2023-07-13T17:58:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/mysql/</loc><lastmod>2023-07-13T17:58:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>

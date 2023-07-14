@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>cuidq&#39;s Blog</title>
-        <link>https://github.com/cuidq/cuidq.github.io.git/en/</link>
+        <link>/en/</link>
         <description>About Me</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>xxx (cuidq)</managingEditor>
             <webMaster>xxx (cuidq)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-            <atom:link href="https://github.com/cuidq/cuidq.github.io.git/en/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>

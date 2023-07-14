@@ -2,42 +2,42 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://github.com/cuidq/cuidq.github.io.git/en/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/en/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://github.com/cuidq/cuidq.github.io.git/categories/"
+                        href="/categories/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://github.com/cuidq/cuidq.github.io.git/fr/categories/"
+                        href="/fr/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://github.com/cuidq/cuidq.github.io.git/en/categories/"
+                    href="/en/categories/"
                     /></url><url>
-            <loc>https://github.com/cuidq/cuidq.github.io.git/en/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/en/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://github.com/cuidq/cuidq.github.io.git/"
+                        href="/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://github.com/cuidq/cuidq.github.io.git/fr/"
+                        href="/fr/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://github.com/cuidq/cuidq.github.io.git/en/"
+                    href="/en/"
                     /></url><url>
-            <loc>https://github.com/cuidq/cuidq.github.io.git/en/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/en/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://github.com/cuidq/cuidq.github.io.git/tags/"
+                        href="/tags/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://github.com/cuidq/cuidq.github.io.git/fr/tags/"
+                        href="/fr/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://github.com/cuidq/cuidq.github.io.git/en/tags/"
+                    href="/en/tags/"
                     /></url></urlset>
