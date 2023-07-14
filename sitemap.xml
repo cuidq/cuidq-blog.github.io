@@ -2,19 +2,19 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>https://github.com/cuidq/cuidq-blog.github.io/zh-cn/sitemap.xml</loc>
+	   	<loc>https://github.com/cuidq/cuidq.github.io.git/zh-cn/sitemap.xml</loc>
 		
 	   	<lastmod>2023-07-14T09:10:31+08:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://github.com/cuidq/cuidq-blog.github.io/en/sitemap.xml</loc>
+	   	<loc>https://github.com/cuidq/cuidq.github.io.git/en/sitemap.xml</loc>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://github.com/cuidq/cuidq-blog.github.io/fr/sitemap.xml</loc>
+	   	<loc>https://github.com/cuidq/cuidq.github.io.git/fr/sitemap.xml</loc>
 		
 	</sitemap>
 	
