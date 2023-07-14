@@ -1,0 +1,26 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>cuidq&#39;s Blog</title>
+        <link>https://github.com/cuidq/cuidq-blog.github.io/</link>
+        <description>关于</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>xxx (cuidq)</managingEditor>
+            <webMaster>xxx (cuidq)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 14 Jul 2023 09:10:31 &#43;0800</lastBuildDate>
+            <atom:link href="https://github.com/cuidq/cuidq-blog.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Hugo 搭建个人博客</title>
+    <link>https://github.com/cuidq/cuidq-blog.github.io/hugo/</link>
+    <pubDate>Fri, 14 Jul 2023 09:10:31 &#43;0800</pubDate>
+    <author>cuidq</author>
+    <guid>https://github.com/cuidq/cuidq-blog.github.io/hugo/</guid>
+    <description><![CDATA[1 安装Hugo, 详情请参考文档: Hugo quickstart 到 Hugo Releases下载适合你的操作系统的版本,把 hugo （或者是 Windows 的 hugo.exe） 放到你的 环境变量 PATH 所在]]></description>
+</item>
+<item>
+    <title>Mysql</title>
+    <link>https://github.com/cuidq/cuidq-blog.github.io/mysql/</link>
+    <pubDate>Thu, 13 Jul 2023 17:58:29 &#43;0800</pubDate>
+    <author>cuidq</author>
+    <guid>https://github.com/cuidq/cuidq-blog.github.io/mysql/</guid>
+    <description><![CDATA[命令 SQL 查询 父查子 1 2 3 4 5 6 7 8 9 10 11 12 SELECT u2.* FROM ( SELECT @ids AS p_ids, (SELECT @ids := GROUP_CONCAT(id) FROM ec_app_category where status= 1 and is_del = 0 and FIND_IN_SET(pid, @ids)) AS c_ids, @l := @l+1 AS LEVEL FROM ec_app_category, (SELECT @ids := 0, @l := 0 ) b #此处为需要传递]]></description>
+</item>
+</channel>
+</rss>
